@@ -5,4 +5,5 @@ COURSE : General Optimization of Chemical Engineering Systems
 Tsinghua University, Fall 2020
 
 `/doc`: Paths, maps & slides
+
 `/src`: Source code for optimization
